@@ -1,0 +1,9 @@
+body, ul, li, p{
+    margin: 0px;
+    padding: 0px;
+    list-style: none; /* tira a marcação do link (bolinha por exemplo) */
+    font-size: 1.2rem;
+    font-family: arial;
+}
+
+/* Define as 
