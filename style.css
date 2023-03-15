@@ -6,4 +6,27 @@ body, ul, li, p{
     font-family: arial;
 }
 
-/* Define as 
+/* Define o tamanho da imagem do logo - largura */
+-logo{
+    width: 200px;
+}
+
+/*Define as características da TAG ancor */
+a{
+    text-decoration: none;      /* tira o sublinhado do link /*
+    Color:width;              /* cor do texto */
+    }
+
+    /*Defina as características do header */
+    .header{ 
+        /* cor do fundo */
+        background-color: black;
+        /* display flexível */
+        display: flex;
+        /* Organizado em linha */
+        flex-wrap: wrap;
+        /* Espaçamento entre os textos */
+        justify-content: space-between;
+        /* centralizado */
+        align-items: center;
+    }
