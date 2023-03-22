@@ -29,4 +29,17 @@ a{
         justify-content: space-between;
         /* centralizado */
         align-items: center;
+        /* "margem interna" */
+        padding: 20px
+    }
+
+    .menu{
+        display: flex;
+    }
+
+    /* distancia entre as palavras do link */
+    .menu li a{
+        display: block;
+        padding: 10px;
+        background-color: blue;
     }
